@@ -8,6 +8,7 @@ const Popup = () => {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <p>Hello</p>
         <p>
           Edit <code>src/pages/Popup/Popup.jsx</code> and save to reload.
         </p>
